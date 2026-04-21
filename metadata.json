@@ -1,0 +1,5 @@
+{
+  "name": "SmartGate AI - Residential Intelligence Platform",
+  "description": "A comprehensive AI-powered platform for residential security, visitor management, pet tracking, and smart home integration.",
+  "requestFramePermissions": ["camera"]
+}
